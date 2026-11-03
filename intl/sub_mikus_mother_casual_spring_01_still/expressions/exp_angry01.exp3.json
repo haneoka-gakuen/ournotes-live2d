@@ -1,0 +1,1 @@
+{"FadeInTime":0.5,"FadeOutTime":1.0,"Parameters":[{"Blend":"Add","Id":"ParamEyesForm","Value":1.0},{"Blend":"Add","Id":"ParamTear","Value":1.0},{"Blend":"Add","Id":"ParamMouthAngry","Value":1.0}],"Type":"Live2D Expression"}

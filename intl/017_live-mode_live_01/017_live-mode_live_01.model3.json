@@ -1,0 +1,149 @@
+{
+  "FileReferences": {
+    "Expressions": [],
+    "Moc": "model.moc3",
+    "Motions": {
+      "Idle": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle_01.motion3.json"
+        }
+      ],
+      "Motion": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_action_01.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_finish_01.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle_01.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play01_01.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play01_02.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play01_03.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play02_01.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play02_02.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play02_03.motion3.json"
+        }
+      ],
+      "mtn_action_01": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_action_01.motion3.json"
+        }
+      ],
+      "mtn_finish_01": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_finish_01.motion3.json"
+        }
+      ],
+      "mtn_idle_01": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle_01.motion3.json"
+        }
+      ],
+      "mtn_play01_01": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play01_01.motion3.json"
+        }
+      ],
+      "mtn_play01_02": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play01_02.motion3.json"
+        }
+      ],
+      "mtn_play01_03": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play01_03.motion3.json"
+        }
+      ],
+      "mtn_play02_01": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play02_01.motion3.json"
+        }
+      ],
+      "mtn_play02_02": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play02_02.motion3.json"
+        }
+      ],
+      "mtn_play02_03": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_play02_03.motion3.json"
+        }
+      ]
+    },
+    "Textures": [
+      "textures/texture_00--Texture2D-4172554193092324241.png",
+      "textures/texture_01--Texture2D--2106853999254072658.png",
+      "textures/texture_02--Texture2D-2548503564097176465.png",
+      "textures/texture_03--Texture2D-6685828006326320170.png"
+    ]
+  },
+  "Groups": [
+    {
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ],
+      "Name": "EyeBlink",
+      "Target": "Parameter"
+    },
+    {
+      "Ids": [
+        "ParamMouthOpenY"
+      ],
+      "Name": "LipSync",
+      "Target": "Parameter"
+    }
+  ],
+  "Version": 3
+}

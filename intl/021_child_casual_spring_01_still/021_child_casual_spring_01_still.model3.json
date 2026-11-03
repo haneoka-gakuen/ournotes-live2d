@@ -1,0 +1,111 @@
+{
+  "FileReferences": {
+    "Expressions": [
+      {
+        "File": "expressions/exp_idle01.exp3.json",
+        "Name": "exp_idle01"
+      },
+      {
+        "File": "expressions/exp_kime01.exp3.json",
+        "Name": "exp_kime01"
+      },
+      {
+        "File": "expressions/exp_smile01.exp3.json",
+        "Name": "exp_smile01"
+      },
+      {
+        "File": "expressions/exp_smile02.exp3.json",
+        "Name": "exp_smile02"
+      },
+      {
+        "File": "expressions/exp_surprised01.exp3.json",
+        "Name": "exp_surprised01"
+      },
+      {
+        "File": "expressions/exp_thinking01.exp3.json",
+        "Name": "exp_thinking01"
+      }
+    ],
+    "Moc": "model.moc3",
+    "Motions": {
+      "Idle": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle01_C.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_C.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle03_C.motion3.json"
+        }
+      ],
+      "Motion": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle01_C.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_C.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle03_C.motion3.json"
+        }
+      ],
+      "mtn_idle01_C": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle01_C.motion3.json"
+        }
+      ],
+      "mtn_idle02_C": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_C.motion3.json"
+        }
+      ],
+      "mtn_idle03_C": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle03_C.motion3.json"
+        }
+      ]
+    },
+    "Physics": "physics3.json",
+    "Textures": [
+      "textures/texture_00--Texture2D--6597245093312891643.png",
+      "textures/texture_01--Texture2D--3022889417952083795.png"
+    ]
+  },
+  "Groups": [
+    {
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ],
+      "Name": "EyeBlink",
+      "Target": "Parameter"
+    },
+    {
+      "Ids": [
+        "ParamMouthOpenY"
+      ],
+      "Name": "LipSync",
+      "Target": "Parameter"
+    }
+  ],
+  "Version": 3
+}
