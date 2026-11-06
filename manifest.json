@@ -9,11 +9,11 @@
       "version": "1.1.0.200"
     },
     "intl": {
-      "files": 18341,
-      "sha256": "99f08ed200f9573c75d80d2e91b2c9eb0ec06b9032edb94dac113d5fd731d6e8",
-      "input": "4dad1be3fb8c333372008402ca1983c220c974f6d2785ffe4958bbb75dae3926",
-      "hash": "c045774b66a6c9d107739ba5ca121e6a",
-      "version": "1.1.0.200"
+      "files": 18966,
+      "sha256": "ed9bf946f29287669d55f6c66a555fae2e93b6604c2af1b72fa88ed5fa09bc59",
+      "input": "75a1e34f6fa733e91b03e39ae2bc1c08f7163a4a1200c604030d470fdba19af8",
+      "hash": "4fd97dac48eadfeb72efd51c9b837872",
+      "version": "1.1.0.300"
     }
   }
 }
