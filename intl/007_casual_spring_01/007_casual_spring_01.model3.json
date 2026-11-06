@@ -18,6 +18,10 @@
         "Name": "exp_bsmile02"
       },
       {
+        "File": "expressions/exp_bsmile03.exp3.json",
+        "Name": "exp_bsmile03"
+      },
+      {
         "File": "expressions/exp_cry01.exp3.json",
         "Name": "exp_cry01"
       },
@@ -48,6 +52,10 @@
       {
         "File": "expressions/exp_kime01.exp3.json",
         "Name": "exp_kime01"
+      },
+      {
+        "File": "expressions/exp_kime02.exp3.json",
+        "Name": "exp_kime02"
       },
       {
         "File": "expressions/exp_pale01.exp3.json",
@@ -88,6 +96,10 @@
       {
         "File": "expressions/exp_smile03.exp3.json",
         "Name": "exp_smile03"
+      },
+      {
+        "File": "expressions/exp_smile04.exp3.json",
+        "Name": "exp_smile04"
       },
       {
         "File": "expressions/exp_surprised01.exp3.json",
