@@ -2,11 +2,11 @@
   "schema": "haneoka-live2d-v1",
   "servers": {
     "jp": {
-      "files": 18341,
-      "sha256": "03553b7a2bfd6ec6ac472a3cc21692fc0d8d2087ed9cd4050fcf649afc6c3133",
-      "input": "1792d7a90c9bc698e8d40b3d84909d272117d1a799d12ba02e4ef9389a4e3dc0",
-      "hash": "8be74134b87dacf7ce1f38967cd66745",
-      "version": "1.1.0.200"
+      "files": 18966,
+      "sha256": "c41c85221afd321dee684928186c5eb299776c282bea71c4c97d03e4ce19ec36",
+      "input": "b742c0734f26833354c4afd41cd6ea33343000506bd9039609583e6fd883d697",
+      "hash": "bc9f8fc0692b4ed4e842db2688b24225",
+      "version": "1.1.0.300"
     },
     "intl": {
       "files": 18966,
