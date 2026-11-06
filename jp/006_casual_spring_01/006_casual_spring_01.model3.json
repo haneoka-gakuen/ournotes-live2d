@@ -127,6 +127,21 @@
           "FadeInTime": 1.0,
           "FadeOutTime": 1.0,
           "File": "motions/mtn_idle01_R.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_C.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_L.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_R.motion3.json"
         }
       ],
       "Motion": [
@@ -249,6 +264,21 @@
           "FadeInTime": 1.0,
           "FadeOutTime": 1.0,
           "File": "motions/mtn_idle01_R.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_C.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_L.motion3.json"
+        },
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_R.motion3.json"
         },
         {
           "FadeInTime": 1.0,
@@ -627,6 +657,27 @@
           "FadeInTime": 1.0,
           "FadeOutTime": 1.0,
           "File": "motions/mtn_idle01_R.motion3.json"
+        }
+      ],
+      "mtn_idle02_C": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_C.motion3.json"
+        }
+      ],
+      "mtn_idle02_L": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_L.motion3.json"
+        }
+      ],
+      "mtn_idle02_R": [
+        {
+          "FadeInTime": 1.0,
+          "FadeOutTime": 1.0,
+          "File": "motions/mtn_idle02_R.motion3.json"
         }
       ],
       "mtn_kime01_C": [
