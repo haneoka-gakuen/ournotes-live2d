@@ -193,6 +193,10 @@
       "model": "006_child_casual_summer_01_silhouette/006_child_casual_summer_01_silhouette.model3.json"
     },
     {
+      "id": "006_knight_01",
+      "model": "006_knight_01/006_knight_01.model3.json"
+    },
+    {
       "id": "006_live-mode_live_01",
       "model": "006_live-mode_live_01/006_live-mode_live_01.model3.json"
     },
@@ -245,6 +249,10 @@
       "model": "007_live_01_mask/007_live_01_mask.model3.json"
     },
     {
+      "id": "007_princess_01",
+      "model": "007_princess_01/007_princess_01.model3.json"
+    },
+    {
       "id": "007_school_summer_hs",
       "model": "007_school_summer_hs/007_school_summer_hs.model3.json"
     },
@@ -257,6 +265,10 @@
       "model": "007_school_winter_jhs/007_school_winter_jhs.model3.json"
     },
     {
+      "id": "007_sister_01",
+      "model": "007_sister_01/007_sister_01.model3.json"
+    },
+    {
       "id": "008_casual_spring_01",
       "model": "008_casual_spring_01/008_casual_spring_01.model3.json"
     },
@@ -267,6 +279,10 @@
     {
       "id": "008_jhs_casual_spring_01_still",
       "model": "008_jhs_casual_spring_01_still/008_jhs_casual_spring_01_still.model3.json"
+    },
+    {
+      "id": "008_knight_01",
+      "model": "008_knight_01/008_knight_01.model3.json"
     },
     {
       "id": "008_live-mode_live_01",
@@ -303,6 +319,10 @@
     {
       "id": "009_halloween_01",
       "model": "009_halloween_01/009_halloween_01.model3.json"
+    },
+    {
+      "id": "009_knight_01",
+      "model": "009_knight_01/009_knight_01.model3.json"
     },
     {
       "id": "009_live-mode_live_01",
@@ -355,6 +375,10 @@
     {
       "id": "010_school_winter_jhs",
       "model": "010_school_winter_jhs/010_school_winter_jhs.model3.json"
+    },
+    {
+      "id": "010_servant_01",
+      "model": "010_servant_01/010_servant_01.model3.json"
     },
     {
       "id": "011_casual_spring_01_hairdown",
