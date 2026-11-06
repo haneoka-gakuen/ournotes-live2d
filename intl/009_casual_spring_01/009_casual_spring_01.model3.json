@@ -46,6 +46,10 @@
         "Name": "exp_kime01"
       },
       {
+        "File": "expressions/exp_pain01.exp3.json",
+        "Name": "exp_pain01"
+      },
+      {
         "File": "expressions/exp_pale01.exp3.json",
         "Name": "exp_pale01"
       },
